@@ -3,12 +3,19 @@ A card counting program using Python and Tkinter.
 Click on the numbers which will show and it will tally what has been clicked on.
 
 
+
 ### Includes:
 - UNDO and REDO
 - Likelyhood of pulling the next card
 - Number only checking OR full deck and suit checking
 
 
+### Bads:
+- Button press refreshes and reloads ALL buttons
+- Complicated to read
+- practices and no comments in code
+
+This was made quickly so wont fix these issues
 
 ### Non-suit counting:
 

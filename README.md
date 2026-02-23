@@ -13,6 +13,7 @@ Click on the numbers which will show and it will tally what has been clicked on.
 ### Bads:
 - Button press refreshes and reloads ALL buttons
 - Complicated to read
+- emojis
 - practices and no comments in code
 
 This was made quickly so wont fix these issues
